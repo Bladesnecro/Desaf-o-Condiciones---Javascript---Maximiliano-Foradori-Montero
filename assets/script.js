@@ -1,4 +1,4 @@
-// Alternar borde rojo en las imágenes al hacer clic
+
 const imagenes = document.querySelectorAll("img");
 imagenes.forEach((imagen) => {
     imagen.addEventListener("click", () => {
@@ -6,7 +6,6 @@ imagenes.forEach((imagen) => {
     });
 });
 
-// Calcular stickers seleccionados
 document.getElementById("calcular").addEventListener("click", () => {
     const total =
         Number(document.getElementById("sticker1").value) +
@@ -20,7 +19,7 @@ document.getElementById("calcular").addEventListener("click", () => {
     }
 });
 
-// Validar contraseña
+
 document.getElementById("ingresar").addEventListener("click", () => {
     const password =
         document.getElementById("digit1").value +
