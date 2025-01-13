@@ -1,4 +1,4 @@
-/* Fondo y estilos generales */
+
 body {
     background-color: gray;
     color: white;
@@ -8,23 +8,22 @@ body {
     padding: 0;
 }
 
-/* Contenedor principal para la alineación horizontal */
+
 #contenedor {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px; /* Espaciado entre los elementos */
+    gap: 20px; 
     margin: 20px 0;
 }
 
-/* Estilos para las imágenes */
 img {
-    width: 100px; /* Ajusta el tamaño de las imágenes */
+    width: 100px; 
     height: auto;
     cursor: pointer;
 }
 
-/* Footer */
+
 footer {
     margin-top: 20px;
     padding: 10px;
