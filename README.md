@@ -10,5 +10,5 @@ Feel free to reach out for collaborations or inquiries:
 - **Email**: [maxfotamont@live.cl](maxfotamont@live.cl)
 
 ## 🌟 About Me
-Hello! I’m **Maximiliano Foradori **, a young jedi with dark side temptations.
+Hello! I’m **Maximiliano Foradori **, a psychologist with parenthood misions learning how to be a programmer.
 
